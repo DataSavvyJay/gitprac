@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+##added by JR
+venv/
+notsendthis/
+.conda/
+.conda
+conda/
 
 # C extensions
 *.so
