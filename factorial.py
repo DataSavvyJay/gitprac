@@ -13,7 +13,11 @@ print(result)
 
 def division(a,b):
     try:
+<<<<<<< HEAD
         return a/b*10
+=======
+        return a/b*2
+>>>>>>> 22c5f88ecc97d72b7802550aba92a2d9996476cf
     except:
         print("sorry cant be processed")
         ###yeah
