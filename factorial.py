@@ -9,3 +9,4 @@ def fac(x):
 # Test the function
 result = fac(5)
 print(result)
+# Done using recursion
