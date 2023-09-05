@@ -13,7 +13,7 @@ print(result)
 
 def division(a,b):
     try:
-        return a/b
+        return a/b*10
     except:
         print("sorry cant be processed")
         ###yeah
