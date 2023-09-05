@@ -10,3 +10,9 @@ def fac(x):
 result = fac(5)
 print(result)
 # Done using recursion
+
+def division(a,b):
+    try:
+        return a/b
+    except:
+        print("sorry cant be processed")
